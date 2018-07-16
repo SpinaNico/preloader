@@ -10,10 +10,10 @@
 
     &.hide{
         opacity: 0;
-        transition:0.4s;
+        transition-duration:0.4s;
     }
     opacity: 1;
-    transition:0.4s;
+    transition-duration:0.4s;
     overflow: hidden;
     background-color:#fff;
     box-shadow: 0px 4px 24px rgba(0,0,0,0.4);
